@@ -1,0 +1,201 @@
+AccessCategoryID,CustomerID,CategoryName,PageViewed,VisitDuration,LastAccessed,DeviceType,BrowserType,ReferralSource,ClicksCount,Conversions
+03d3d027-4a3c-4a3f-adf9-f790a85183f3,ea6a4784-c972-4b31-b650-d0f82be9f551,Coach,3,1778,2024-04-16,Desktop,Edge,Social Media,46,4
+d317def0-902b-46bd-8c31-5b944c3f14dd,642d928d-b3c4-475b-8931-b3cce50fb984,Help,6,1317,2024-02-11,Tablet,Chrome,Search Engine,50,2
+5c984a33-3753-44e0-8c31-9a14cd9c4355,98dc1035-ccf3-41d2-9b4c-0e8bcf21eef8,Charge,18,508,2024-05-22,Desktop,Chrome,Direct,42,0
+f0636df5-0d64-442e-86e3-911158f6091e,603fb7af-ec68-42dd-b4dc-26707bfcbecd,Response,7,1413,2024-08-01,Desktop,Firefox,Social Media,19,4
+399506dd-a193-43ef-a7fd-1a9b9bc08b8c,79a66689-7909-4336-9bbc-0ef9f3586192,Kitchen,19,727,2024-02-13,Mobile,Safari,Social Media,1,4
+162a2cf9-9f87-4ce1-ad2f-892626926c17,baa6df70-cd12-4790-96f2-611269067212,Structure,10,4487,2024-03-21,Mobile,Safari,Direct,37,3
+acc6db17-4cfc-4f75-9e82-4254c5b6eac3,85933625-e9df-4d6f-ac2d-32d49faea0c8,Win,3,2702,2024-05-21,Desktop,Safari,Direct,20,4
+a07662c0-59c5-47b6-9b88-986213ee53bd,ea834899-9e76-4b45-b113-a28e4ee1df75,Human,12,324,2024-03-13,Tablet,Chrome,Social Media,39,3
+e58cb3ef-d779-4fdc-b28b-9159177aaa51,7207957d-0c8e-4eb7-8661-0d4187c357e3,Cultural,14,1922,2024-06-03,Desktop,Edge,Search Engine,1,1
+a587dadf-a3f0-4895-9ee7-2b8020fc62ad,c5d476a8-30cf-4c3d-972f-bbcc966990ca,Very,19,3731,2024-04-09,Tablet,Chrome,Social Media,50,0
+9e6c2494-cd5f-44fc-acbe-29451a358715,9667d0b7-fab6-4c40-9aa2-ab320d98df7a,President,2,754,2024-02-27,Mobile,Edge,Search Engine,39,1
+6c1589a5-e356-48e0-85a2-5b03333a9df2,f7667fd0-54a3-423b-886a-69d59c80b159,Animal,8,4499,2024-05-20,Mobile,Chrome,Direct,26,3
+b4c8ad98-5f0c-489b-9f3a-daf3e0defec2,10e25216-c9a0-4f44-bf16-0b4a795f073d,Yes,6,3125,2024-01-10,Mobile,Safari,Social Media,27,4
+e6894638-8368-438f-a6c1-90a9f9ff4246,559e0ae1-9a7a-4bdf-8803-cf6c28e2f05a,Ever,17,2928,2024-07-01,Tablet,Firefox,Social Media,3,3
+f2d9b38f-271d-4eb5-a6d0-8c3522f31c48,8a997197-df34-48a8-b805-7355f2a409b7,Full,17,400,2024-03-07,Mobile,Safari,Search Engine,47,1
+ca94778a-812f-4d7e-b645-a8483fce289e,fdb83134-4729-4afe-ba8b-3cd638a929d5,Serious,7,1749,2024-03-23,Mobile,Firefox,Direct,19,2
+31ca8c50-010f-44dd-8cb5-d1f8260d3a91,3089e45b-18ab-4b14-9e82-4272117016e0,Toward,10,1188,2024-01-27,Mobile,Edge,Search Engine,4,3
+33b10dd9-04c4-4728-8b7b-fa420076090e,8423825f-6be6-4b40-a283-0f25c2d44b9f,School,19,4087,2024-01-24,Mobile,Edge,Direct,27,3
+e8e5bed3-e8d1-4ad0-8cac-7c51e99bc810,9641cb0b-067b-4907-8d23-4f59cc24e7a0,Cup,18,3635,2024-01-10,Tablet,Safari,Direct,42,4
+19742834-472a-464b-bbfe-c1e6c7c23575,853c80d8-7f25-4988-a70c-6e4bc405b9ed,Moment,8,1778,2024-05-18,Tablet,Edge,Search Engine,15,4
+669a7972-d3bc-46ac-8a9d-eda0229819f2,50bc22b1-78b6-47fc-a48e-62fe265679f7,Increase,3,4436,2024-07-07,Mobile,Firefox,Direct,20,0
+7a29b069-4cef-461b-a86c-b9f39b6e7a2b,fecab6ed-f0ff-4f11-9a38-708dfd1469dd,Attention,4,1084,2024-02-04,Tablet,Firefox,Social Media,27,2
+03ccfb50-274f-4a65-912a-828cf2558eb4,4c7233e1-ef7c-452b-83c6-e49e1a7fde44,Body,12,1138,2024-04-01,Mobile,Firefox,Social Media,29,5
+51c51950-4642-469d-aedc-96ab78173a16,d607c509-4c5b-4744-9641-a0200cbc738e,Big,9,3424,2024-04-02,Mobile,Firefox,Social Media,18,1
+4ba64e23-2b93-434c-96e5-01a830dfb7e1,7308a771-3f1f-4328-a709-227bbbfc1a0e,Involve,4,2206,2024-03-23,Desktop,Safari,Search Engine,4,2
+475f39b3-3b2d-4972-8c8a-e985f2202456,25156c23-e459-484c-bf02-362f839cfad8,Stuff,4,2952,2024-03-14,Desktop,Firefox,Search Engine,15,1
+d9dfd9d3-c75d-4816-91c1-31b8be49eee1,559e0ae1-9a7a-4bdf-8803-cf6c28e2f05a,Sit,7,3110,2024-06-28,Mobile,Safari,Social Media,11,2
+5d5c05a8-f269-4e1e-92e8-53e8f095e8e2,388356d6-6cce-45fc-9bfd-0e8ed7b80db8,Under,1,4381,2024-03-14,Tablet,Chrome,Social Media,28,5
+f01d683d-9a7b-476c-af04-d7fe842d43c7,8423825f-6be6-4b40-a283-0f25c2d44b9f,Across,9,1656,2024-03-29,Tablet,Safari,Social Media,6,0
+fa344981-2e3c-402d-b277-c98751b6f0a6,a521540b-59c1-4c07-982e-97019df55503,Radio,14,4538,2024-03-11,Desktop,Firefox,Direct,8,2
+dd278aed-c706-4769-89b3-e60d717d3588,f7667fd0-54a3-423b-886a-69d59c80b159,Actually,10,1435,2024-05-28,Desktop,Safari,Direct,35,4
+47d1e810-18bc-4030-b7ef-202e9dc8dd1a,c5d476a8-30cf-4c3d-972f-bbcc966990ca,Common,8,646,2024-01-21,Desktop,Firefox,Search Engine,28,2
+a43d5e97-b9e3-493c-9b90-beeb4ccf14c1,d636f2a4-fa09-4f0d-ba2b-2314fa0fa830,Operation,4,1160,2024-05-17,Desktop,Safari,Social Media,9,0
+2e8a7c86-13ea-4899-b5c2-4b8f89fc6106,0bf8b565-5077-4a47-83c8-e8ce04894893,Law,15,3295,2024-01-28,Desktop,Safari,Social Media,20,3
+8dda3237-aa3b-4bf8-8c9c-f9db143e6286,cf5f31d4-e5a1-433b-b3fd-411e128e18dc,High,10,383,2024-06-13,Desktop,Chrome,Search Engine,38,1
+e35c3985-873d-4039-a030-d8969a67db9f,014b9fe0-9b99-4540-8ac0-52faf718bb96,Wait,4,3236,2024-01-06,Mobile,Safari,Social Media,7,3
+896f320a-f418-463e-9ee1-beed6358b071,c7580efb-d00f-4a33-8647-1ed8da8e3cb6,It,19,2429,2024-06-07,Tablet,Chrome,Social Media,4,3
+27dc665b-b924-4f23-8488-502b2d6a7a6d,79a66689-7909-4336-9bbc-0ef9f3586192,Teach,14,4300,2024-05-16,Desktop,Firefox,Direct,11,5
+e46d5e1b-f970-4e1b-a6a3-95870939cef6,5a8d5cdb-2fba-4ec2-ada6-a566ce24890a,Game,4,965,2024-05-10,Tablet,Firefox,Search Engine,23,3
+c5e7d062-9d75-4716-b4da-81424aee1ea2,e86c06db-067f-4bd2-b74d-1ddefe349d2f,Service,8,3549,2024-06-13,Mobile,Firefox,Search Engine,12,5
+8db28919-d14f-4660-b354-f27605aa106e,20b02c84-aa55-46ee-97b1-c5674d1ee03c,Hotel,11,1237,2024-05-19,Mobile,Safari,Social Media,16,0
+73e0c2b8-7d64-4070-bfb8-a3f01903864f,b7b31629-e2a4-4f4b-bfcf-dd14b3a13fed,Lawyer,18,861,2024-05-12,Tablet,Edge,Social Media,40,5
+50fec6f1-f684-4187-9062-f6c959e9d00d,8a997197-df34-48a8-b805-7355f2a409b7,Capital,10,2755,2024-07-16,Tablet,Chrome,Direct,3,5
+37013458-802c-4588-a2ee-81d436da4a3f,cceb394e-baa4-432f-9a44-60e2e9963968,Operation,9,4206,2024-07-29,Tablet,Safari,Direct,38,2
+6c945c8f-d3a1-4fef-a0b3-8f649b746169,5cbaadb0-e2bf-41c8-8c0a-76846355446c,Can,3,3697,2024-07-29,Mobile,Chrome,Social Media,7,3
+02808288-26ce-4b5b-99a3-6d7be5f0d5f2,7725866b-ecc2-4461-bebb-defb2a6baca4,Kitchen,9,2752,2024-02-01,Desktop,Edge,Direct,22,5
+6c1bee75-41f8-4cd6-bace-108adace05e1,b061e07f-fc48-491b-9d19-5e3a3917151c,Economy,8,2900,2024-02-17,Tablet,Safari,Search Engine,46,3
+782618f7-72a7-4e8b-b27e-128c2baa29c9,559e0ae1-9a7a-4bdf-8803-cf6c28e2f05a,Follow,1,3236,2024-01-30,Tablet,Safari,Search Engine,39,0
+ec635e6d-a70e-4c31-bf53-eeb4f4aa335b,2321da5b-0df1-4d85-bafe-cbc5c9d2da4f,Environment,4,2584,2024-04-17,Mobile,Edge,Direct,6,1
+56d978dc-bccb-464e-8b8c-65804b943c2e,dfd686e0-e6e1-460b-b69a-b0199e045128,Cut,18,2400,2024-06-25,Mobile,Safari,Direct,37,0
+2e34508e-9a77-45fc-b422-ca283d5eee25,9d0aaa19-e329-45dc-9f0a-5f035fb6693c,Particular,8,3556,2024-02-23,Desktop,Safari,Direct,5,3
+c32889e0-9855-4153-a43a-2b8ca2462806,5ba53790-714a-4397-b362-b1dcc992f89f,Far,13,1761,2024-01-04,Mobile,Edge,Direct,11,0
+d5b74021-4468-4565-bcd5-bcbba6ea2ae9,6b6c9ec8-f1aa-4955-8288-fe559d242877,Over,19,416,2024-07-04,Mobile,Safari,Direct,43,1
+1bae0bc1-6063-4917-b300-359ea9d50fc8,e78dbdfd-8d2b-49eb-a026-735e2a31728b,System,16,2101,2024-04-28,Desktop,Safari,Social Media,42,4
+528bbd0e-d944-4c68-ab75-b0d636b44852,ada1b267-69ac-4e03-aa1b-f85636cc3e4e,Property,16,4153,2024-07-31,Mobile,Firefox,Direct,48,1
+59864431-faf6-464d-9823-e0e8dade53ba,15db6e1e-b9cd-4ec7-9e67-73edf2cc105f,Travel,4,1160,2024-02-06,Mobile,Chrome,Social Media,36,0
+d05a2cd3-bd52-4103-a140-2ed1ee91acb3,91b86c46-e4c8-4f8b-8c5d-8c4caf8f2e70,Body,20,3562,2024-04-27,Desktop,Edge,Search Engine,1,5
+40ffe1ab-5e5e-4350-89c1-9ec12d1de3ce,c6140508-6323-486a-a95b-86bc128a267c,Best,17,2621,2024-03-15,Tablet,Firefox,Direct,40,2
+87cf2351-a29e-48d4-8bf1-a64d77ab80b7,9181e4fe-0126-4784-b50d-9119d7070e1d,Evening,10,3302,2024-04-04,Tablet,Chrome,Search Engine,37,4
+9571bddb-617b-447c-8d5e-62b555d0f597,029e6a6a-57a4-4d32-add0-08d1b25341e6,Side,13,2171,2024-05-05,Tablet,Safari,Social Media,8,2
+b3a603f1-5cc5-49c8-9f8c-f931ca2f6a20,3a8975df-c5f8-4f9c-9c43-c43d3837b8b9,Peace,9,4218,2024-04-23,Desktop,Edge,Search Engine,7,4
+ab926563-9925-4e65-aba4-a2724099fce6,fd64b75e-79b0-42f7-b0de-babf5e54c949,Receive,11,634,2024-03-20,Tablet,Edge,Search Engine,48,0
+ca4e8b37-5d88-4cd9-8f54-ccf04073a609,b8799710-b37a-48cf-a912-635a66acca65,West,11,4833,2024-08-08,Mobile,Firefox,Social Media,44,5
+aec05fa9-6ee3-4802-a346-31d0a8c45ab1,6b1f4e21-7efd-4cc4-92aa-ee56668bd00f,Rule,1,158,2024-02-10,Desktop,Edge,Direct,34,5
+32931b77-efac-418f-95f5-70ca569c0015,20b02c84-aa55-46ee-97b1-c5674d1ee03c,Nice,16,1947,2024-07-31,Desktop,Safari,Search Engine,13,5
+930d1361-1240-4d10-83aa-70ce4e9cdaf0,8cd6fe83-9eed-4a59-ad95-e2d24c264751,Little,20,3670,2024-07-01,Desktop,Safari,Search Engine,1,4
+94774bdc-1c18-4f1a-bad0-b8788210337b,74ac70a6-8ab4-4579-9f98-2c5da81eb1e8,High,20,4933,2024-02-20,Desktop,Chrome,Search Engine,45,0
+fa7fd27b-d5e5-4961-98b8-33434a26800f,affe3941-f323-4b6c-9a0f-8fbda00c47f8,Television,13,3748,2024-06-09,Desktop,Safari,Search Engine,40,5
+9f482752-3136-48bf-a5b3-e175203c5ce9,4f727f99-782d-4d9f-87e5-9124046a8c72,Boy,8,1509,2024-05-30,Tablet,Edge,Search Engine,17,3
+eed83b01-0f03-49df-9ee2-7508f8d0ccc1,f7dd9acb-093d-4e93-a20f-4bce3f5b5881,Item,3,1422,2024-02-10,Tablet,Chrome,Search Engine,24,2
+95010a6b-f7b2-4b0f-bd79-e5d9383a2334,16c4e3d4-bf41-48d5-8b3e-4c45882b9e5d,Ask,2,3154,2024-04-03,Tablet,Safari,Direct,19,3
+aba1d363-c7cf-42d5-82b3-da357a8e21a2,cad93052-22e4-43db-b9c8-321d4644dc28,Vote,18,4141,2024-06-18,Desktop,Safari,Search Engine,49,4
+9fffc7cc-344b-48db-bdc3-4c59d0211bb5,c7580efb-d00f-4a33-8647-1ed8da8e3cb6,Garden,11,625,2024-07-29,Desktop,Chrome,Search Engine,40,1
+befaccf9-1193-4b1f-8b19-55d862bf5b8a,921d0db2-06be-41ef-8e25-196c2a274731,Few,20,2423,2024-06-06,Tablet,Safari,Search Engine,1,3
+dae52f76-258a-4b11-afbf-08ac3702b449,f2e7b2ee-baa8-4393-9dff-227526dd3b3b,Where,8,2857,2024-07-06,Mobile,Chrome,Social Media,4,3
+dc45d78d-1b6c-4eb8-a476-bc456dfb9b4f,7128657b-c4c6-4e6c-a6c9-d2ff9488c594,Town,13,4914,2024-01-12,Mobile,Safari,Direct,44,0
+a1f53db1-07ac-42a4-9f4a-41aacb9f278d,92b1c46c-761e-48b5-a575-4204fb3c0866,Admit,9,1748,2024-08-08,Tablet,Firefox,Search Engine,7,5
+71a2c8e8-9c89-4234-ab42-cbb31a957da2,0bf8b565-5077-4a47-83c8-e8ce04894893,Alone,13,4613,2024-04-01,Mobile,Safari,Direct,9,0
+831bf941-98eb-426b-9205-9fc45f33ba97,7207957d-0c8e-4eb7-8661-0d4187c357e3,Hospital,9,3476,2024-05-07,Tablet,Safari,Direct,22,3
+bdbe2c72-4705-4ed9-8bc2-6dc4762e391b,acb5fa79-4b9e-4355-9cd6-6024862a430f,Eight,11,2184,2024-02-29,Desktop,Firefox,Direct,48,4
+f1f07df9-2c03-411a-ad2f-2ccdd389a957,4c88a668-1dfc-4d6a-a98d-e3eda76b46c4,Usually,15,4297,2024-06-30,Tablet,Chrome,Social Media,25,2
+168b2857-1d46-4898-99eb-bfe4457b79a9,7a2eb11b-91ae-4201-9e2a-b5579365cca1,Marriage,17,1672,2024-01-02,Tablet,Chrome,Social Media,16,0
+5d3ebf9f-c7cb-4c75-9f18-21511caf5e46,f7667fd0-54a3-423b-886a-69d59c80b159,Speech,18,2573,2024-08-04,Mobile,Firefox,Social Media,32,4
+a3350300-6884-47d4-aba8-9b21fd771cfe,8a997197-df34-48a8-b805-7355f2a409b7,Table,14,1482,2024-04-17,Desktop,Safari,Direct,3,2
+e5af2c1e-cd9c-43f8-a83c-4c133855290d,40a75e07-16b7-4ddb-a700-fbb57d15d86a,Thank,10,2808,2024-01-21,Tablet,Safari,Direct,26,0
+65cd7115-4918-4efa-8c91-2055871bee3a,cac0a9d0-e4d5-4876-ae46-4170b5e46aea,Ago,4,1122,2024-04-25,Tablet,Safari,Social Media,11,0
+fecf5611-9408-4f10-8b88-4d152858ae1c,7a2eb11b-91ae-4201-9e2a-b5579365cca1,Ok,18,1342,2024-02-23,Tablet,Firefox,Direct,9,1
+b8dac1ce-65b5-4e96-9fb8-2f09289829e7,5f1c53d8-e5a4-4112-a740-4519741df768,This,6,3347,2024-01-31,Desktop,Chrome,Search Engine,19,2
+b2e039be-665a-4935-a377-165fbcd7e6eb,c99b5949-4a8c-4d55-97c3-bde3867ac59c,Lawyer,19,140,2024-08-05,Mobile,Chrome,Search Engine,50,2
+d723702e-1ab9-4f47-ada9-b593b84fa371,fd0ee795-6eae-4f7b-8031-a811e5d741de,Those,3,4717,2024-06-10,Tablet,Safari,Search Engine,5,3
+b251ddc1-ec00-4d02-8147-8450564f4882,097a72a0-0b29-4650-bd4f-30e5e6fe734d,Get,12,4721,2024-06-06,Desktop,Firefox,Direct,34,1
+b835533e-ec4c-41d7-9945-891d26118e64,d4d3ee26-d667-4c5f-908f-91c471d0ca84,Degree,5,4151,2024-04-04,Mobile,Safari,Social Media,38,4
+903ec594-cae8-4dc5-8bfe-24cee34d9a6b,c7580efb-d00f-4a33-8647-1ed8da8e3cb6,Evidence,20,796,2024-02-01,Tablet,Firefox,Search Engine,17,3
+31d43b8d-bacf-4a11-a660-e1a4af6a8914,4ba344a7-8902-4f2e-bf8a-4e360ec47fe3,Quality,15,1524,2024-04-18,Desktop,Edge,Search Engine,7,2
+12d8b170-f868-4c46-825c-d83f0056a9be,ea834899-9e76-4b45-b113-a28e4ee1df75,Lead,9,1479,2024-03-03,Desktop,Edge,Direct,24,2
+f6896c5c-99c9-427c-88f4-9a61af2aa4a9,c6c793b8-0a40-47be-a8e4-fa070fd7fdba,Pull,12,1226,2024-02-21,Desktop,Firefox,Direct,11,4
+658d119b-8c80-4e48-bc8a-cde9d83ce439,92b1c46c-761e-48b5-a575-4204fb3c0866,Control,20,3507,2024-03-05,Tablet,Firefox,Direct,24,1
+42ee106c-65a2-48e8-b337-e90a51f81bde,8f6ec4d2-4b5a-4026-bf88-bffc3dfa3527,Enough,15,3361,2024-04-13,Tablet,Chrome,Direct,25,2
+bf05501e-3259-478a-a2b7-a4060ca5fc8b,88d69fe4-ddf4-4b08-bfbc-5cc0e9148eb3,Several,7,3539,2024-05-06,Mobile,Firefox,Search Engine,40,3
+bfb2e24a-75a8-48e2-acd6-8de1fc702ef7,8a997197-df34-48a8-b805-7355f2a409b7,Southern,20,3493,2024-06-04,Desktop,Edge,Direct,20,1
+0efcff2c-24e5-4ac3-b059-5295d2b6e439,6b6c9ec8-f1aa-4955-8288-fe559d242877,Will,11,1008,2024-04-28,Tablet,Edge,Direct,37,3
+ad606a17-bdc0-4871-8aac-398f33137e41,25b07718-c34a-4adf-88c8-008bdcd61a1c,Court,5,2102,2024-02-11,Mobile,Edge,Search Engine,31,2
+2daae756-03dc-422e-b4a7-498f888f9551,e86c06db-067f-4bd2-b74d-1ddefe349d2f,Grow,8,2568,2024-06-30,Tablet,Chrome,Search Engine,45,1
+b5e386d8-5639-4206-b286-31248e4ddbc1,8c647044-0cec-4485-ba05-b8e221f5b0a2,Customer,7,3072,2024-02-21,Mobile,Safari,Social Media,28,5
+8c675121-d0ad-48f8-a759-f8ffe71189b4,25b07718-c34a-4adf-88c8-008bdcd61a1c,Main,1,1817,2024-07-01,Tablet,Edge,Direct,17,5
+8309814f-dcc5-40da-a2ce-dc74f5338a87,321781b6-f69f-4cc0-b1e7-09d13e34ac07,Such,19,4546,2024-07-26,Mobile,Firefox,Search Engine,37,5
+407ce51e-6c14-4a0d-88e0-6a0304194577,79a66689-7909-4336-9bbc-0ef9f3586192,Use,16,2968,2024-04-06,Tablet,Edge,Social Media,46,1
+41b42325-06a5-4516-add0-61a5a28efdd0,8f6ec4d2-4b5a-4026-bf88-bffc3dfa3527,Quickly,20,3255,2024-04-21,Tablet,Edge,Search Engine,20,1
+4589c775-7484-4dec-b06d-9023af3d8e85,e9134c54-b6b4-4f24-9a84-b9d1514b90d0,Attorney,16,2142,2024-01-24,Desktop,Firefox,Search Engine,13,5
+786dd504-1283-4c4c-963f-d07bcde6ab43,3959d633-169d-4aa7-9054-c6bff6fae25f,Friend,16,3745,2024-05-03,Mobile,Edge,Direct,34,2
+d568e07f-4b6d-48df-a1d3-47714c51ee19,c5d476a8-30cf-4c3d-972f-bbcc966990ca,Probably,14,859,2024-03-30,Desktop,Safari,Direct,10,1
+4f10c938-4f09-4e3d-92da-03003c061f62,ed8f6733-5930-4b12-8399-e97f1c463dbe,Ahead,5,1352,2024-03-12,Desktop,Firefox,Social Media,38,1
+5877a64b-b264-4e54-b1b0-8a01a2310db0,cac0a9d0-e4d5-4876-ae46-4170b5e46aea,Scientist,4,1046,2024-07-03,Desktop,Safari,Search Engine,12,0
+baa5ab0e-f928-44f3-a656-a50993a9ecd4,6a2d27b6-d2a7-4c01-b8a7-72313fc7fab1,She,19,3050,2024-05-07,Mobile,Edge,Search Engine,22,5
+b75cfd78-7fb5-469d-ab64-898a968076f2,603fb7af-ec68-42dd-b4dc-26707bfcbecd,Wait,18,4307,2024-07-30,Tablet,Safari,Direct,36,4
+616d276c-df5c-4170-b37b-9d7a4ed73315,e31bfaad-4541-48d1-8bfb-bd409d5ff5dd,Live,1,2807,2024-04-05,Tablet,Edge,Social Media,31,2
+ecfefe61-311a-41ee-9998-ebb6c6c20ef1,9667d0b7-fab6-4c40-9aa2-ab320d98df7a,Guy,19,1885,2024-02-04,Mobile,Edge,Search Engine,43,0
+e3b29f0f-69cd-4e8c-a6f4-e1168a50b4f0,91b86c46-e4c8-4f8b-8c5d-8c4caf8f2e70,Fill,9,4478,2024-02-11,Desktop,Firefox,Direct,1,1
+d9a77862-b848-4549-9b59-fdbac8cea98e,e356eb76-19ab-4e53-9099-82f0f18aadac,Throughout,12,240,2024-04-23,Desktop,Safari,Social Media,38,4
+3b43f5ef-dbf3-4749-bb55-c230750ff104,8cd6fe83-9eed-4a59-ad95-e2d24c264751,Board,18,920,2024-02-29,Mobile,Firefox,Direct,21,5
+04e797db-c979-4dc4-90a9-27df01cb98d5,dcf8ad57-115a-44b2-94e1-c31a22d577b5,Theory,13,1192,2024-07-24,Mobile,Chrome,Direct,41,2
+b6e217c5-d128-45fb-8765-14a23d0bea69,3ba482f1-49d3-47ff-836e-cbfe318fcd47,Policy,14,4680,2024-01-04,Tablet,Chrome,Search Engine,14,2
+a16307c4-b795-400b-bc55-22a5def802cf,aacfed83-1047-4c99-87fd-b6f9c77799de,Million,4,1135,2024-03-03,Desktop,Firefox,Social Media,48,1
+88cdcd62-494f-4da9-95d4-98ce38158b55,a4de8745-63dc-4cb0-8d0d-ecd4d4646c80,Message,13,3575,2024-06-23,Mobile,Firefox,Direct,34,2
+3e93e2e3-ada9-44d4-b425-40ebf854c970,d8574822-b7c2-4052-ae1b-e60d5aef8233,End,7,4184,2024-03-06,Mobile,Safari,Social Media,22,2
+373f9c9f-3907-42f5-81cd-8027ef913b7f,e86c06db-067f-4bd2-b74d-1ddefe349d2f,Prove,8,4096,2024-04-03,Tablet,Firefox,Social Media,4,4
+5e83ef66-935b-4a87-ad3a-9abbd683564b,a406648e-d9be-43dc-99ad-10d2a326d9c9,Wife,4,2184,2024-03-08,Desktop,Chrome,Direct,7,2
+64c33663-c3a2-45d4-9032-77bab63bee5b,3089e45b-18ab-4b14-9e82-4272117016e0,Interesting,4,2328,2024-01-09,Mobile,Firefox,Search Engine,37,0
+9a1bf6d2-cf59-44d8-9e0f-4679249dfb45,f7dd9acb-093d-4e93-a20f-4bce3f5b5881,Other,13,3943,2024-02-22,Mobile,Safari,Direct,9,1
+b6586a67-a009-4e0d-bec1-010cd372050a,80c81295-2791-4f2e-9b73-d1692ae32466,With,2,4681,2024-04-06,Mobile,Edge,Search Engine,36,4
+e2b3083f-45c9-4c24-b669-d034faddccdf,4c88a668-1dfc-4d6a-a98d-e3eda76b46c4,Machine,14,2037,2024-05-29,Mobile,Chrome,Search Engine,12,5
+209f4b49-c55f-4e00-a5b6-34cffa9c50dd,b2ffbf2a-ca63-4d92-a0c1-5578071f5dc8,Through,4,3689,2024-05-23,Desktop,Firefox,Social Media,31,2
+e1fe96c4-4e05-4388-beb2-f8852c59a412,c63c73ad-34dd-40cd-9be9-e26d8f7a0883,Successful,7,3718,2024-07-11,Tablet,Firefox,Social Media,14,4
+57bbdca6-5820-43f7-90ba-4195fd8935c6,cceb394e-baa4-432f-9a44-60e2e9963968,At,12,3532,2024-07-17,Desktop,Edge,Direct,9,5
+34cbf2c1-883e-4984-96c4-1ab813292124,603fb7af-ec68-42dd-b4dc-26707bfcbecd,Page,18,4025,2024-07-13,Mobile,Firefox,Social Media,23,5
+27ddb59e-1b82-4ebb-a729-4f4a71bfac5a,1c09149e-a501-47f6-b469-8883c738887f,Go,9,70,2024-02-09,Desktop,Edge,Direct,26,1
+58842474-032d-4255-96a6-bce414442da4,e9134c54-b6b4-4f24-9a84-b9d1514b90d0,Develop,19,2589,2024-06-29,Mobile,Safari,Direct,28,5
+44b582f6-b82c-4a1b-a1a1-78a9bc02a566,69fdbc18-62ef-441c-9380-5c1a5401a0f3,Business,1,4697,2024-01-08,Tablet,Chrome,Social Media,4,0
+b65d23af-9bd4-4c32-a70a-7ac875ba4756,04c9fb3e-7e42-4e55-9f2c-30b68046a9ac,Smile,20,2473,2024-06-25,Desktop,Safari,Social Media,2,4
+d532064a-26ea-4fdd-95b0-26e43b2d1d25,021ce694-0955-4b46-81c8-67f3b97997c0,A,4,3456,2024-02-27,Desktop,Chrome,Search Engine,3,0
+f0dccc1c-0199-4751-b487-f226a92237e5,9c4ff780-969a-45aa-9dec-73365cd7f7c2,Minute,4,124,2024-03-20,Tablet,Chrome,Social Media,49,4
+393d0e2a-e473-4561-9519-b3e934d6a800,918341aa-2761-4501-bb31-ed2f3a2a691e,Away,7,4860,2024-02-21,Tablet,Edge,Search Engine,7,0
+a4866540-0e31-4cea-9f00-38bec60833ca,3959d633-169d-4aa7-9054-c6bff6fae25f,Later,4,1283,2024-07-19,Tablet,Firefox,Direct,31,4
+dacd292d-4a5e-4b93-b8da-002276912d32,5cbaadb0-e2bf-41c8-8c0a-76846355446c,Affect,13,1682,2024-03-08,Mobile,Edge,Direct,15,1
+4710e70c-f258-4eb3-a0d0-78a1b0396ae7,388356d6-6cce-45fc-9bfd-0e8ed7b80db8,Investment,15,553,2024-05-18,Mobile,Firefox,Direct,10,3
+b0cddc49-6729-410f-9486-6ab486e5e6fc,40a75e07-16b7-4ddb-a700-fbb57d15d86a,West,16,3453,2024-05-25,Desktop,Firefox,Social Media,3,4
+30a507ff-0ad5-4ae8-a0eb-61feafadce0a,25156c23-e459-484c-bf02-362f839cfad8,Value,13,1281,2024-05-13,Tablet,Edge,Social Media,37,1
+a0df73c0-628b-4038-82a3-f862a87cfa10,dfd686e0-e6e1-460b-b69a-b0199e045128,Sit,10,3174,2024-01-23,Tablet,Edge,Social Media,30,4
+851ab13c-463d-4448-92d8-bdd7e8b00a2c,d41bc502-af6d-4043-ae6a-855aee83f4b3,Very,14,2730,2024-04-06,Tablet,Firefox,Direct,20,4
+7600864b-df3c-42e6-b000-bb76aebfc543,a521540b-59c1-4c07-982e-97019df55503,Small,8,2795,2024-04-15,Tablet,Safari,Direct,33,3
+d44be403-6e2f-461e-9848-b53dd26838f9,8c647044-0cec-4485-ba05-b8e221f5b0a2,Citizen,10,3127,2024-04-30,Desktop,Safari,Direct,7,2
+e393875c-7b21-408b-9af6-985e6aeb6b19,0205caf2-27a5-4dc3-b312-8f59c423a3d2,Cold,7,842,2024-04-24,Mobile,Edge,Social Media,11,2
+62145979-5f46-459b-9788-6b750d09334c,98dc1035-ccf3-41d2-9b4c-0e8bcf21eef8,Find,14,3817,2024-06-19,Mobile,Safari,Social Media,24,3
+630dcc6e-0558-49c4-aebb-6ac0fd0dda66,f44955b4-1dd4-495b-8f36-9c003543715d,My,19,3913,2024-01-10,Desktop,Chrome,Direct,41,0
+2782af6c-704e-448a-a826-ba93129deed4,853c80d8-7f25-4988-a70c-6e4bc405b9ed,Agree,9,2180,2024-05-13,Mobile,Edge,Search Engine,13,0
+dad24f82-d7ff-4c2e-8290-0e15e9df55fa,cfb9901c-6fdb-40d0-bc51-c6664db8fed7,It,6,505,2024-01-23,Desktop,Edge,Search Engine,28,5
+2eff829a-50d2-42a8-ba69-93ff02d6a4bc,021ce694-0955-4b46-81c8-67f3b97997c0,Pretty,2,2197,2024-03-15,Desktop,Chrome,Direct,3,1
+7ac64437-fd8f-4cb4-b2b0-ac42859d2bb4,c6140508-6323-486a-a95b-86bc128a267c,Work,18,1948,2024-05-11,Mobile,Safari,Search Engine,9,4
+08b433ab-f6fb-4238-84ff-94321c0a7711,e9134c54-b6b4-4f24-9a84-b9d1514b90d0,Discussion,16,2031,2024-05-05,Tablet,Chrome,Search Engine,10,4
+a983839e-3ce5-4185-b223-41f1b8b0d36e,260c0820-7801-4586-b34d-722add70a919,Should,8,1111,2024-07-16,Mobile,Chrome,Search Engine,18,2
+2ceffdd6-b0b3-40de-8669-a802f6a12697,50bc22b1-78b6-47fc-a48e-62fe265679f7,Official,17,176,2024-04-15,Desktop,Edge,Social Media,50,5
+27b1d1d8-a115-4220-8965-f16050c6a594,6b6c9ec8-f1aa-4955-8288-fe559d242877,Away,2,1379,2024-02-06,Tablet,Chrome,Social Media,26,2
+fd99fa8d-adbd-4745-9d29-0b080f1172a8,aacfed83-1047-4c99-87fd-b6f9c77799de,Child,11,223,2024-05-06,Tablet,Edge,Social Media,33,1
+6f0c32c3-aea0-4ecd-a328-a8e6c972412b,5cbaadb0-e2bf-41c8-8c0a-76846355446c,Near,13,494,2024-03-06,Desktop,Edge,Search Engine,11,1
+a7d7b578-d413-40d6-8bf9-8a09a7491190,44ac2a9a-8797-4783-b02a-79a6bf5598a1,Half,4,4452,2024-02-22,Tablet,Chrome,Social Media,14,5
+b4ce5be5-4dcc-4625-aa1f-247f198b89b0,db2d80a2-6449-458b-94e1-9f27f6008b69,After,18,3285,2024-04-13,Desktop,Safari,Direct,48,4
+59e81bba-c120-4b6a-a44a-18491b4f170e,cac0a9d0-e4d5-4876-ae46-4170b5e46aea,Poor,11,2295,2024-05-10,Mobile,Firefox,Direct,30,0
+0ba8ebd0-5e7a-405c-b11d-c17f055dc07c,c63c73ad-34dd-40cd-9be9-e26d8f7a0883,With,12,2059,2024-05-05,Desktop,Firefox,Direct,46,4
+640c8f02-86ba-4d81-b0a6-c2ceedd80109,92f298c0-0cc5-430e-a17d-919460c69653,Strategy,6,3534,2024-02-22,Tablet,Firefox,Search Engine,39,4
+43cb4187-c46b-473c-b333-9892fde88441,7f08fe9c-a8fa-4d90-af42-2f36325bdf6c,Total,2,457,2024-01-31,Mobile,Chrome,Social Media,50,5
+e1180e1b-d564-493d-872d-915c727a52e5,74cdb511-379a-4cf1-bc3d-e7cd16cb9b77,Style,12,2121,2024-05-01,Desktop,Safari,Search Engine,34,2
+16e973e0-bc44-4c82-9f7a-eb25574a0931,5874746c-41fd-42d5-907a-b83094055e2b,Board,5,556,2024-04-29,Tablet,Edge,Social Media,8,5
+63a10377-da86-4204-b240-3d5342a8d337,f7dd9acb-093d-4e93-a20f-4bce3f5b5881,Among,5,1357,2024-02-03,Desktop,Edge,Direct,35,2
+40fb5dfd-d739-4087-b858-7a23bb568492,87afc4ad-2d67-41d6-b50f-855c05c4b651,Network,12,2909,2024-07-08,Desktop,Chrome,Social Media,5,5
+3ef3ab1f-334e-4b47-99c1-8b0b6f4834c3,d8574822-b7c2-4052-ae1b-e60d5aef8233,Allow,4,4726,2024-05-20,Tablet,Edge,Search Engine,5,5
+ea2c766a-5465-440b-9507-ab258beb31db,642d928d-b3c4-475b-8931-b3cce50fb984,Other,15,1211,2024-02-09,Desktop,Firefox,Search Engine,36,0
+8e58a0b8-0721-4162-b3e5-8b14bc0c3117,67ee20d7-9deb-4483-abff-77f312464195,Truth,14,2290,2024-04-18,Desktop,Firefox,Direct,41,4
+3256d933-665d-4056-a645-05af3c3c4820,7128657b-c4c6-4e6c-a6c9-d2ff9488c594,Inside,18,2578,2024-05-21,Tablet,Firefox,Social Media,43,5
+5fbbb75c-f7c2-425b-a309-ba8c9a33ac0f,bb1892c1-a408-4e74-b5af-56a752b88ab6,Personal,2,1812,2024-08-06,Desktop,Edge,Direct,36,4
+49bc91c8-7d5f-4b00-987c-ea94f72b210b,918341aa-2761-4501-bb31-ed2f3a2a691e,Scene,7,2334,2024-03-02,Tablet,Firefox,Search Engine,4,4
+42df356d-1a9d-458d-9405-9a1d35ed32c7,e86c8ba6-ab86-4ec1-acd9-1bd046d8fb4d,Board,10,3156,2024-02-28,Mobile,Chrome,Direct,40,2
+44c954ae-54bc-42e4-be60-a02e32efaeff,88bf3e7e-5d16-42af-b142-6202893b5d13,Safe,15,2421,2024-04-24,Mobile,Chrome,Search Engine,28,4
+961423d8-7aff-45f2-8695-d134e34df831,c5d476a8-30cf-4c3d-972f-bbcc966990ca,Exist,1,1374,2024-01-07,Tablet,Chrome,Search Engine,27,1
+472985da-5f54-4203-af77-552e89010c35,9d0aaa19-e329-45dc-9f0a-5f035fb6693c,Put,9,3299,2024-05-20,Tablet,Safari,Social Media,10,5
+233c70fd-2735-4761-a9a0-2fb3017c80cf,aacfed83-1047-4c99-87fd-b6f9c77799de,Sense,11,1771,2024-05-07,Tablet,Chrome,Search Engine,49,3
+a5147b25-34ed-4bc8-b552-370dd6dbd649,6a2d27b6-d2a7-4c01-b8a7-72313fc7fab1,Military,11,1609,2024-08-04,Tablet,Firefox,Social Media,38,4
+bcdf0e9f-331f-4698-ac8d-db88bb30b591,14b502bb-938f-4076-85eb-9c9b387ddeac,Rich,16,2032,2024-05-10,Mobile,Safari,Direct,12,3
+659162c9-ef06-4fe7-ba12-19b098d7135d,15db6e1e-b9cd-4ec7-9e67-73edf2cc105f,Movie,2,652,2024-03-08,Mobile,Edge,Search Engine,28,5
+ce43644a-02bf-491f-b7d0-cf9a09ea1449,69fdbc18-62ef-441c-9380-5c1a5401a0f3,Draw,1,1202,2024-06-26,Tablet,Safari,Social Media,20,5
+e8606a3e-554b-4dc4-8b01-84b3171773a1,cad93052-22e4-43db-b9c8-321d4644dc28,Cut,19,1681,2024-05-22,Desktop,Edge,Search Engine,8,4
+b08bcebe-5662-4c19-b325-eebb085e282c,40a75e07-16b7-4ddb-a700-fbb57d15d86a,Statement,12,741,2024-01-11,Tablet,Edge,Search Engine,15,4
+92efd76d-b4cf-4eed-b235-81f8108dfc4f,7f08fe9c-a8fa-4d90-af42-2f36325bdf6c,Away,2,838,2024-02-14,Desktop,Edge,Direct,20,2
+be21240f-f470-4f43-bab2-7c65808bd639,79a66689-7909-4336-9bbc-0ef9f3586192,At,4,34,2024-05-27,Mobile,Edge,Direct,32,1
+e6d5f988-880f-4311-ad3e-3e50d42b660b,50ad36af-e3bb-4b02-af26-cb3e89c73a4f,Option,18,3330,2024-03-31,Tablet,Edge,Direct,10,0
+f1964c02-14cf-40a0-8452-cf6173b9c296,853c80d8-7f25-4988-a70c-6e4bc405b9ed,Product,15,615,2024-07-10,Desktop,Safari,Social Media,12,0
+9129b2a3-32d1-40ec-932e-0fbf6f5ab057,fdb83134-4729-4afe-ba8b-3cd638a929d5,Benefit,20,2797,2024-06-05,Desktop,Firefox,Social Media,32,5
+3624433d-3006-4bde-8127-80551a363096,d8574822-b7c2-4052-ae1b-e60d5aef8233,Which,2,1301,2024-07-09,Desktop,Safari,Social Media,19,5
+f9d68273-0508-47e7-bd18-a5e1f71d55e4,6f05b98d-f98c-40c5-96ea-0231f553b6ac,Drop,19,25,2024-01-01,Tablet,Edge,Direct,31,2
+b125bb8e-34b9-4602-8d65-c92abed0aabf,fc955b31-574d-413f-89ce-43eac2162f2a,Shoulder,15,4550,2024-06-02,Desktop,Edge,Social Media,5,5
+47382a59-56db-4ada-b55f-6e186fb4c906,ed8f6733-5930-4b12-8399-e97f1c463dbe,Consider,7,3438,2024-07-22,Desktop,Safari,Search Engine,42,1
